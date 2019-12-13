@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EncryptLeebrary</name>
+    </assembly>
+    <members>
+        <member name="T:EncryptLeebrary.EncryptData">
+            <summary>
+            EncryptData
+            </summary>
+        </member>
+        <member name="M:EncryptLeebrary.EncryptData.Encryptor(System.String,System.Boolean,System.String)">
+            <summary>
+            Encrypt the text value
+            </summary>
+            <param name="toEncrypt">value to be encrypt</param>
+            <param name="useHashing">option to use hashing in encryption</param>
+            <param name="securityKey">your personal securitykey</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,3 @@
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EncryptDecrypt\EncryptLeebrary\obj\Debug\netstandard1.0\EncryptLeebrary.csprojAssemblyReference.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EncryptDecrypt\EncryptLeebrary\obj\Debug\netstandard1.0\EncryptLeebrary.AssemblyInfoInputs.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EncryptDecrypt\EncryptLeebrary\obj\Debug\netstandard1.0\EncryptLeebrary.AssemblyInfo.cs

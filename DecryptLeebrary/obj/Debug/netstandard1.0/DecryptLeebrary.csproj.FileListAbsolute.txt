@@ -1,0 +1,2 @@
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EncryptDecrypt\DecryptLeebrary\obj\Debug\netstandard1.0\DecryptLeebrary.AssemblyInfoInputs.cache
+C:\Users\vincent.lee.c.flores\Desktop\LeeSourceCode\EncryptDecrypt\DecryptLeebrary\obj\Debug\netstandard1.0\DecryptLeebrary.AssemblyInfo.cs

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DecryptLeebrary</name>
+    </assembly>
+    <members>
+        <member name="T:DecryptLeebrary.DecryptData">
+            <summary>
+            DecryptText
+            </summary>
+        </member>
+        <member name="M:DecryptLeebrary.DecryptData.Decryptor(System.String,System.Boolean,System.String)">
+            <summary>
+            Decrypt the text value
+            </summary>
+            <param name="cipherString">value to be decrypt</param>
+            <param name="useHashing">option to use hashing in encryption</param>
+            <param name="securityKey">your personal securitykey</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
